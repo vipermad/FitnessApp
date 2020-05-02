@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fitness.BL", "Fitness.BL\Fitness.BL.csproj", "{7D42914C-4326-44BA-9E88-DCD681C788A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fitness.CMD", "Fitness.CMD\Fitness.CMD.csproj", "{0ECD15F8-2B4D-478C-BE9D-9225D8CD7A77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D42914C-4326-44BA-9E88-DCD681C788A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D42914C-4326-44BA-9E88-DCD681C788A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D42914C-4326-44BA-9E88-DCD681C788A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D42914C-4326-44BA-9E88-DCD681C788A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ECD15F8-2B4D-478C-BE9D-9225D8CD7A77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ECD15F8-2B4D-478C-BE9D-9225D8CD7A77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ECD15F8-2B4D-478C-BE9D-9225D8CD7A77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ECD15F8-2B4D-478C-BE9D-9225D8CD7A77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C431EE90-B77F-4EF3-B35B-AC68F33075B6}
+	EndGlobalSection
+EndGlobal
